@@ -46,12 +46,6 @@ export default function Home() {
                         Read our docs
                     </a>
                 </div>
-                <div>
-                    <h1>¡Mi proyecto con Next.js y Material-UI!</h1>
-                    <Button variant="contained">
-                        Soy un botón de Material-UI
-                    </Button>
-                </div>
             </main>
             <footer className={styles.footer}>
                 <a
